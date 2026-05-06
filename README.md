@@ -37,9 +37,9 @@
 
 Make sure you have Python 3.8 or higher installed. You will also need the following Python libraries:
 
-```bash
+```python
 pip install customtkinter cryptography
-
+```
 ### Installation
 
 1. Clone the repository:
